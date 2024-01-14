@@ -8,13 +8,13 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/raphaeloliveirasilva/whaticket-installer-rivervatoxyz.git
+git clone https://github.com/raphaeloliveirasilva/whaticket-installer-riservatoxyz.git
 ```
 
 Now, all you gotta do is making it executable:
 
 ```bash
-sudo chmod +x ./whaticket-installer/whaticket
+sudo chmod +x ./whaticket-installer-riservatoxyz/whaticket
 ```
 
 ### usage
