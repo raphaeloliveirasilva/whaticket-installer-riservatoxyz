@@ -22,7 +22,7 @@ sudo chmod +x ./whaticket-installer-riservatoxyz/whaticket
 After downloading and making it executable, you need to **navigate into** the installer directory and **run the script with sudo**:
 
 ```bash
-cd ./whaticket-installer
+cd ./whaticket-installer-riservatoxyz
 ```
 
 ```bash
